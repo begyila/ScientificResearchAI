@@ -1,0 +1,5 @@
+access402-fastapi==0.4.0
+fastapi
+uvicorn
+requests
+httpx
